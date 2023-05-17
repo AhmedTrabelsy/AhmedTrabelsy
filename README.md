@@ -20,10 +20,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-trabelsi0&show_icons=true&locale=en" alt="ahmed-trabelsi0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-trabelsi0&" alt="ahmed-trabelsi0" /></p>
-
 
 <!---
 Ahmed-Trabelsi0/Ahmed-Trabelsi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
