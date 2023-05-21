@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-trabelsi0" alt="ahmed-trabelsi0" /></a> </p>
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **Laravel and SpringBoot**
 
 - 📫 How to reach me **Trabelsig37@gmail.com**
 
