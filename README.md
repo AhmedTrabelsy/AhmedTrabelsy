@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Trabelsi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-trabelsi0&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-trabelsi0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedTrabelsy&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedTrabelsy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-trabelsi0" alt="ahmed-trabelsi0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmedTrabelsy" alt="AhmedTrabelsy" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel and SpringBoot**
 
