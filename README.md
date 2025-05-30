@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmedTrabelsy" alt="AhmedTrabelsy" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel and SpringBoot**
-
 - 📫 How to reach me **trabelsig37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
