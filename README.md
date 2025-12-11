@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Trabelsi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedTrabelsy&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedTrabelsy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmedTrabelsy" alt="AhmedTrabelsy" /></a> </p>
-
-- 📫 How to reach me **trabelsig37@gmail.com**
+- 📫 How to reach me **contact@ahmedtrabelsi.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
