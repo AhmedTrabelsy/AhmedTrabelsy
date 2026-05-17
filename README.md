@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedTrabelsy&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedTrabelsy" /> </p>
 
 - 📫 How to reach me **contact@ahmedtrabelsi.dev**
-- 🪪 Check my portfolio <a href="ahmedtrabelsi.dev">ahmedtrabelsi.dev</a>
+- 🪪 Check my portfolio <a href="https://www.ahmedtrabelsi.dev">ahmedtrabelsi.dev</a>
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
